@@ -7,9 +7,8 @@ $msgtoto = "[!] enjoy your life";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
--
 $data= [
-'adi bordir','Raden Panji Tri Wahyudi',
+'Raden Panji Tri Wahyudi',
  'Adi Digitizer','Dzi','semua andinya','sungging','asep kanceuh','putripesek','nubie305','ateng','Bal Lack','Maulana Setiawan','suga zora','Thauvan GT','yassar sha\'id shafi\'i','Moezza 01','စုံလင်သော အလ','hasan coc','Pro Master','hasan abut','gan bro','Yudi Pratmaja','Gembel Elite','imel telu','SkaLova','Badrun','Nhóc Con Sr','Delwin Yoanes',
 'Beuti Lavea','MasterCraft Vn','Ari Sandi','I love Cartoon','Kaboom','Robert Simangunsong','Mohamad Husn',
 'Lucy Thien','Adi Trader Demo','Mif Takhul','Feyy','I Dewa Gede Superatikadewa','Wendik','Qohwah',
@@ -48,7 +47,7 @@ $data= [
  'Ipman Kirishima I','Z95125','Ipman Kirishima II','Ipman Kirishima III','Ipman Kirishima IV','Ipman Airlangga I','Ipman Airlangga II','Ipman Airlangga III','Shinobara Arata','Unlock NF','N90740','fasya ramada','Aris Wijaya','Yosa Zainul Hasan','Muhammad Haris','Shoniaa Nisa','Junron Lasno','Yadi Kice','Gersik Turen','Bulan Warni','Jorik Jerok','Kusno Kerdil','Haris Denslo','Nita Farida','Vira Aml','Gilang Sarwah','Cira Harti','Lusandar Jangkar','Herman Luis','Reno Sunandar','Shoniaa Nisa',
  'Robby Ari','Kuroiwa Arata','Ipman Airlangga VI','Ipman Airlangga VII','Ipman Airlangga VIII','Ipman Airlangga IX','Genji Maeda','Ipman Airlangga XI','Yery','Mery','Dego','Bima','Lithonia','Huy Le','Vira Aml','Abdissabiq Haqi','Ceramah Manfaat','AGOEZ MARIYANTO','Ka Sabelas','Saidina Ali','Cimeng Blues1','Ade ZJ','Cimeng Blues2','Zein Azka Muhammad','Emai','Bally','Banjar','Tia','Budi','Gita',
 'Gan Bro','Gan Bro','Gan Bro','Gan Bro','Gan Bro','Gan Bro','Azy Ciel','Pelangi','Hasan','Dewi','Dojer','Tika','Ema','Liman','Gerry Gerry','Mukhalim Khalim','Lukman Nulhakim','Azka Abdul','Anu Kahiji','Anu Kadua','Anu Katilu','Anu Kaopat','Anu Kalima','Anu Kagenep','Anu Katujuh','Anu Kasalapan','Anu Kadalapan','Lutpi Abdul','Sipa Nurul','Lukman Bungbulang','Cimeng blues','Ka Sapuluh','prima putra','Amir Rais','Bunga Indah','Charly Daniel','Dina Khairunnisa','Evan Gani','Uning Garong','Ryan Akbar',
-'Wulan Diyana','Asyadi Wirna','Nofrizon Fajrin','nofrizon fajrin','Ghoni Saputra','Hantu Uka','hayati moet','Cundru Nayla','Andi Ygtersakititukkeduakalinya','Luki Yuno','Ruben Firmansyah','faisal aliansyah','Kino Yuno','Susu Kntl','Hack Game Mobile','ReyBeth Tino','Ridwan Bernanti','Mr X','Chaca Ismatullah','Ronnachai','Nature Forget','liyhumhay00@gmail.com','nuyul reward','co phaichac','Emas Selawati','andi s.n','JembutSutra','Duy Thu','anosystem25@gmail.com','H73490',
+'Wulan Diyana','Asyadi Wirna','Nofrizon Fajrin','nofrizon fajrin','Ghoni Saputra','Hantu Uka','hayati moet','Cundru Nayla','Andi Ygtersakititukkeduakalinya','Luki Yuno','Ruben Firmansyah','faisal aliansyah','Kino Yuno','Susu Kntl','Hack Game Mobile','ReyBeth Tino','Ridwan Bernanti','Mr X','Chaca Ismatullah','Ronnachai','Nature Forget','liyhumhay00@gmail.com','nuyul reward','co phaichac','Emas Selawati','andi s.n','JembutSutra','Raden Panji Tri Wahyudi','Duy Thu','anosystem25@gmail.com','H73490',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','premium',];
