@@ -8,8 +8,10 @@ $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
 $data= [
+//WAE
 'Raden Panji Tri Wahyudi','Richard Kennedy','R Panji Tri',
-//vipm
+//YD
+'R Panji Tri Wahyudi','Charles','Richard The Lionheart',
 //mpiv
         ];
 $toto = ['tes',];
