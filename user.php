@@ -11,7 +11,7 @@ $data= [
 //WAE
 'Raden Panji Tri Wahyudi','Richard Kennedy','R Panji Tri',
 //YD
-'R Panji Tri Wahyudi','Charles','Richard The Lionheart',
+'R Panji Tri Wahyudi','Charles','Richard The Lionheart','richard.thesteam11316@gmail.com',
 //mpiv
         ];
 $toto = ['tes',];
