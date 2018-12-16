@@ -8,7 +8,7 @@ $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
 $data= [
-'Raden Panji Tri Wahyudi','Richard Kennedy',
+'Raden Panji Tri Wahyudi','Richard Kennedy','R Panji Tri',
 //vipm
 //mpiv
         ];
