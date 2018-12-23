@@ -9,7 +9,7 @@ $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
 $data= [
 //WAE
-'Raden Panji Tri Wahyudi','Richard Kennedy','R Panji Tri',
+'Raden Panji Tri Wahyudi','Richard Kennedy','R Panji Tri','Creature',
 //YD
 'R Panji Tri Wahyudi','Charles','Richard The Lionheart','richard.thesteam11316@gmail.com',
 //mpiv
